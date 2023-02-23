@@ -1,3 +1,7 @@
 [submodule "mrfluffy-dev-wallpapers"]
 	path = mrfluffy-dev-wallpapers
 	url = https://github.com/mrfluffy-dev/wallpapers
+[submodule "mr-fluffy-dev-wallpapers"]
+	path = mr-fluffy-dev-wallpapers
+	url = https://github.com/mrfluffy-dev/wallpapers
+	branch = main
