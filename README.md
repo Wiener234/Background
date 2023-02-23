@@ -1,1 +1,7 @@
 # wallpaper
+
+
+git clone ....
+git submodule update --init
+
+git submodule update --remote
